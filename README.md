@@ -43,5 +43,4 @@ To contribute as a Quality Assurance Engineer by delivering robust, high-quality
 - 📍 Coimbatore, Tamil Nadu
 
 Let's connect and build quality software! 🚀
-"""
 
