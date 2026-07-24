@@ -44,6 +44,4 @@ To contribute as a Quality Assurance Engineer by delivering robust, high-quality
 
 Let's connect and build quality software! 🚀
 """
-out="/mnt/data/README_UPDATED.md"
-Path(out).write_text(md,encoding="utf-8")
-print(out)
+
