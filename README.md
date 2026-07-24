@@ -1,4 +1,4 @@
-![Header](_1694541972989.jpeg)
+![Header](1694541972989.jpeg)
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
     <h1 style="color: #333;"><center>About Me 👨‍💻</center></h1>
